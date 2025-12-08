@@ -6,7 +6,8 @@
 • 📫 I’m currently learning pentest and redteam  
 • ⚡ Fun fact: I’m a bit careless sometimes  
 • 🔥 Still believe in love, just more carefully  
-
+  
+  
 [![My Skills](https://skillicons.dev/icons?i=python,go,c,cpp,linux,bash,git,docker,postgres,idea)](https://skillicons.dev)
 
 ### Spotify Playing 🎵
