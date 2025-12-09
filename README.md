@@ -8,7 +8,7 @@
 • ⚡ Fun fact: I’m a bit careless sometimes  
 • 🔥 Still believe in love, just more carefully  
 
-<br><br>
+<br><br><br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,go,c,cpp,linux,bash,git,docker,postgres,idea)](https://skillicons.dev)
 
 ### Spotify Playing 🎵
